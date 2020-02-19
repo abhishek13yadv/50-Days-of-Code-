@@ -1,3 +1,5 @@
+// Using Hashing to find first element that occur K times
+
 #include<bits/stdc++.h>
 using namespace std;
 int firstElement(int arr[],int n,int k)
